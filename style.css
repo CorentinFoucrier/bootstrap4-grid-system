@@ -1,0 +1,49 @@
+body {
+	height: 300%;
+	border: 3px solid black;
+}
+
+header {
+	border: 3px solid red;
+	padding: 3px 3px 3px 3px;
+}
+
+#img {
+	border: 3px solid yellow;
+	padding: 3px 3px 3px 3px;
+}
+
+section {
+	border: 3px solid green;
+	padding: 3px 3px 3px 3px;
+}
+
+article {
+	border: 3px solid blue;
+	padding: 3px 3px 3px 3px;
+}
+
+nav {
+	border: 3px solid cyan;
+	padding: 3px 3px 3px 3px;
+}
+
+footer {
+	border: 3px solid orange;
+	padding: 3px 3px 3px 3px;
+}
+
+#cyan {
+	border: 3px solid #33ffcb;
+	padding: 3px 3px 3px 3px;
+}
+
+ul {
+	border: 3px solid magenta;
+	padding: 3px 3px 3px 3px;
+}
+
+li {
+	border: 3px solid gray;
+	padding: 3px 3px 3px 3px;
+}
