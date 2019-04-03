@@ -33,11 +33,6 @@ footer {
 	padding: 3px 3px 3px 3px;
 }
 
-#cyan {
-	border: 3px solid #33ffcb;
-	padding: 3px 3px 3px 3px;
-}
-
 ul {
 	border: 3px solid magenta;
 	padding: 3px 3px 3px 3px;
@@ -46,4 +41,8 @@ ul {
 li {
 	border: 3px solid gray;
 	padding: 3px 3px 3px 3px;
+}
+
+#ul-footer {
+	border: 3px solid brown;
 }
